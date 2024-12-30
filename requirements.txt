@@ -1,0 +1,7 @@
+requests
+colorama
+termcolor
+socket
+mechanize
+bs4
+lxml
